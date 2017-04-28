@@ -1,0 +1,47 @@
+
+----------------------------------------------------------------------------
+
+Threat Profiling
+-----------------------
+
+1) Understanding Application - like a normal user
+	- Use each and every possible functionalities at least once
+	- Observe the behaviour of all functionalities
+
+For ex - Inventory Management Application 	
+
+2) Information Gathering
+   	- Target User
+	- Website Language
+	- Database Server
+	- Mail Server
+	- Hosting or Application Server
+	- FTP
+	- Domain Control Panel
+	- Server Control Panel
+	- Server IP Address
+	- Ports
+	- Server Type
+	- Server Operating System
+	- Application Frameworks
+	- Javascript Framework
+	- External CSS Files
+	- External jQuery Files
+	- External Javascript Files
+
+3) Vulnerability Assessment
+      	- Testing for OWASP Top 10
+		- A1 - SQl Injections
+  		- A2 - Broken Authentication & Session Management
+		- A3 - Cross Site Scripting
+		- A4 - Insecure Direct Object References
+		- A5 - Security Misconfigurations
+		- A6 - Sensitive Information Disclosure
+		- A7 - Missing Function Level Access Control
+		- A8 - Cross Site Request Forgery
+		- A9 - Using Components of Known Vulnerabilities
+		- A10 - Unvalidated Redirects & Forwards
+
+4) Penetration Testing
+	- Exploiting all the above flaws.
+	
